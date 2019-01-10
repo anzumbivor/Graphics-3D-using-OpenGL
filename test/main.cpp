@@ -12,7 +12,7 @@
 #include <GL/glu.h>
 #include <GL/GLAUX.h>
 
-double a=0.0,b=0.0,c=45.0;
+double a=0.0,b=0.0,c=55.0;
 GLfloat	l_t=0;
 GLfloat	l_t1=45;
 GLuint texture[50];
